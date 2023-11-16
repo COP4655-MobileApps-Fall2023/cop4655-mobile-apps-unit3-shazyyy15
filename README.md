@@ -1,6 +1,6 @@
 # Project 2 - *Homework 2*
 
-Submitted by: **S Hassan Shaikh**
+Submitted by: **Shazil Shahid
 
 **Homework 2** is a movie browsing app that allows the user to tap a listed movie and view information about it in greater detail.
 
