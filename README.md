@@ -42,7 +42,7 @@ It was a pain copying information from the endpoint into the program. Code from 
 
 ## License
 
-    Copyright [2023] [S Hassan Shaikh]
+    Copyright [2023] [Shazil Shahid]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
